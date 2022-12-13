@@ -1,7 +1,10 @@
-Bonjour,
+Hello,
 
-Test
+My name is David and I'm interested in backend development (Rails - ROR - and PHP - Symfony).
 
+I've attended Epitech's Web@cadémie and LeWagon's bootcamp.
+
+I'm currently looking for a job as a backend developer in France. If you are interested, feel free to contact me!
 
 <!--
 **DavidDeville/DavidDeville** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
